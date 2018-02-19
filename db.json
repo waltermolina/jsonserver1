@@ -1,3 +1,5 @@
 {
-  "visits": []
+  "visits": [
+    {id: 1, lat: 30, long: 30}
+  ]
 }
