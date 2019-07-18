@@ -1,9 +1,31 @@
 {
-  "visits": [
+  "patients": [
     {
       "id": 1,
-      "lat": 30,
-      "long": 30
+      "firstName": "Walter",
+      "lastName": "Molina",
+      "gender": "m",
+      "birthdate":"1989-11-13",
+      "lat": 0,
+      "lon": 0,
+    },
+    {
+      "id": 2,
+      "firstName": "Olivia",
+      "lastName": "Molina",
+      "gender": "f",
+      "birthdate":"2013-04-22",
+      "lat": 0,
+      "lon": 0,
+    },
+    {
+      "id": 3,
+      "firstName": "Tatiana",
+      "lastName": "Hotimsky",
+      "gender": "f",
+      "birthdate":"1989-05-23",
+      "lat": 0,
+      "lon": 0,
     }
   ]
 }
